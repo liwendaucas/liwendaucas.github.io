@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Georgia pro";
+    src: url("../fonts/GeorgiaPro-Regular.ttf") format('truetype');
+    font-weight: 400;
+  }
+
+@font-face {
+    font-family: "GeorgiaItalic";
+    src: url("../fonts/GeorgiaItalic.ttf") format('truetype');
+    font-weight: 400;
+  } 
+
+@font-face {
+    font-family: "NotoSerifSC-Regular";
+    src: url("../fonts/NotoSerifSC-Regular.otf") format('truetype');
+    font-weight: 400;
+  } 
+
+div.footer-content{
+    font-family: 'GeorgiaItalic';
+}
