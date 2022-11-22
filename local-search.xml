@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>Personal blog migration</title>
+    <link href="/2022/11/22/en/site_migration/"/>
+    <url>/2022/11/22/en/site_migration/</url>
+    
+    <content type="html"><![CDATA[<p>I registered GitHub pages with Gmail <a href="mailto:liwenda.edu@gmail.com">liwenda.edu@gmail.com</a> a few days ago. But it has some problems recently, so I decide to migrate my blog address. The new address is <a href="https://liwenda-public.github.io/">liwenda-public</a>.</p><span id="more"></span><p>本博客网站我是使用11月份初刚申请的谷歌邮箱注册了Github账号并开通了GitHub Pages，但是最近我发现我注册GitHub使用的gmail邮箱 <a href="mailto:liwenda.edu@gmail.com">liwenda.edu@gmail.com</a> 出现了手机号码无法验证的问题，使用别人的手机号也不行，导致我现在无法在新设备上登录我的GitHub账户（需要邮箱验证，但邮箱已无法进入），故我会重新申请一个新的GitHub Pages，新的个人博客网站域名为<a href="https://liwenda-public.github.io/">liwenda-public</a>。</p><p>以后再注册gmail时，最好再添加一个辅助邮箱，以防意外情况。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>个人博客</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>网站迁移</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>UCAS-Galactic Astronomy</title>
     <link href="/2022/11/10/en/galaxies/"/>
     <url>/2022/11/10/en/galaxies/</url>
